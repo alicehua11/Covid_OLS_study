@@ -1,18 +1,6 @@
----
-title: Regression to Study the Spread of Covid-19
-summary: Using Kaiser Family Foundation and state policy database for Covid-19 data to study a causal question with Ordinary Least Squared regression.
-tags:
-- data science
-- mobility
-- statistics
-date: "2020-12-10T00:00:00Z"
 
-image:
-  caption: Photo by Google
-  focal_point: Smart
----
 Alice Hua - Derrick Xiong - Alex Kihiczak  
-10/12/2020
+10/28/2020
 
 ### 1. An Introduction
 
